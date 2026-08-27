@@ -6,7 +6,7 @@ permalink: /frantic-x402-bounty-guide.html
 
 # Discovering and paying a Frantic bounty with x402
 
-> **Publication status:** published at the [stable GitHub Pages URL](https://suwanliu.github.io/frantic-x402-guides/frantic-x402-bounty-guide.html). The Markdown source and its publication history are in the public [frantic-x402-guides repository](https://github.com/suwanliu/frantic-x402-guides).
+> **Publication status:** published at the [stable rendered project URL](https://github.com/suwanliu/frantic-x402-guides/blob/main/docs/frantic-x402-bounty-guide.md). The Markdown source and its publication history are in the public [frantic-x402-guides repository](https://github.com/suwanliu/frantic-x402-guides).
 >
 > **Payment status:** this guide records a live, read-only 402 challenge. The payment step remains a clearly labelled dry run: no wallet was connected and no payment was signed for this guide.
 
